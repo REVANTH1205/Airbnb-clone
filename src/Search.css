@@ -1,0 +1,80 @@
+.search{
+    position: absolute;
+    top: 35px;
+    left: 35%;
+    width: 100vw;
+    
+   }
+   .search >h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       width: 559px;
+       padding: 10px;
+       background-color: white;
+       position: absolute;
+       left: 0;
+       top: 450px; 
+   }
+
+   .search >h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 559px;
+    
+    padding: 10px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    top: 490px; 
+}
+   .searchplace > input{
+        
+        outline-width: 0;
+   }
+ 
+
+   .search >h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       width: 559px;
+       padding: 10px;
+       background-color: white;
+       position: absolute;
+       left: 0;
+       top: 345px;
+   }
+   .search > input{
+       width: 539px;
+       padding: 20px;
+       position: absolute;
+       outline-width: 1;
+       left: 0;
+       height: 30px;
+       top: 392px;
+       border: none;
+   }
+   .search > input:focus{
+       outline-width: 0;
+       
+   }
+   .search > button{
+       position: absolute;
+       left: 0;
+       top: 530px;
+       text-transform: inherit !important;
+       background-color: tomato;
+       color: white;
+       width: 580px;
+       font-weight: 900;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .search > button:hover{
+       background-color: white;
+       color: #ff7779;
+   }
