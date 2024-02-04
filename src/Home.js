@@ -11,13 +11,13 @@ function Home() {
 
       <div className='home_section'>
             <Card
-                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
+                src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
                 title="1 Bedroom Oasis in Mumbai"
                 description="Description: Discover serenity in the bustling city of Mumbai with our 1-bedroom oasis."
                 price="$130/night"
             />
             <Card
-                src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
+                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
                 title="Penthouse Elegance in Delhi"
                 description="Enjoy the amazing sights of Delhi with this stunning penthouse"
                 price="$300/night"
